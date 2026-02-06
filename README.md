@@ -62,4 +62,5 @@ If present, defaults are loaded from:
 
 ---
 
-Want CSV or JSON output, or new commands? Tell me what you need and I’ll add them.
+Feel free to fork this repo to add your own features. If you spot any bugs, please open an issue.
+
